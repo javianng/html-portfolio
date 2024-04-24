@@ -43,7 +43,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Website Preview](https://github.com/javianng/introductiontohtml5_personalproject/blob/08f2f22dce5fee22b7ef7f2a07ae7cf0a9d5f583/HTML5%20Website%20Preview.png)
+![Website Preview](https://github.com/javianng/html-portfolio/blob/807b87fb25843cf6def5a03ed72576a5b87a3b3c/HTML5%20Website%20Preview.png)
 
 In this project, I experiment with HTML5 to build a portfolio page that is solely powered by HTML.
 I then host it on Github Pages.
